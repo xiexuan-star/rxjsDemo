@@ -8,7 +8,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@types/mockjs": "^1.0.6",
     "@types/rx": "^4.1.2",
+    "mockjs": "^1.1.0",
     "rxjs": "^7.5.5",
     "vue": "^3.2.25"
   },
